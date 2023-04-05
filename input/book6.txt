@@ -1,0 +1,1602 @@
+﻿The Project Gutenberg eBook of Diabetes: Its Cause and Its Treatment
+With Insulin, by Russell M. Wilder
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Diabetes: Its Cause and Its Treatment With Insulin
+
+Author: Russell M. Wilder
+
+Editor: E. Haldeman-Julius
+
+Contributor: Morris Fishbein
+
+Release Date: May 9, 2022 [eBook #68032]
+
+Language: English
+
+Produced by: deaurider and the Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK DIABETES: ITS CAUSE AND ITS
+TREATMENT WITH INSULIN ***
+
+
+
+
+
+  LITTLE BLUE BOOK NO. 875
+
+  Edited by E. Haldeman-Julius
+
+  Diabetes: Its Cause
+  and Its Treatment
+  With Insulin
+
+  Russell M. Wilder, M. D.
+
+  With an Introduction by
+  Morris Fishbein, M. D.
+
+  HALDEMAN-JULIUS COMPANY
+  GIRARD, KANSAS
+
+
+
+
+  LITTLE BLUE BOOK HEALTH SERIES
+
+  Edited by
+
+  MORRIS FISHBEIN, M. D.
+
+  Editor, Journal of the American Medical Association
+  and Associate Editor, Hygeia, a
+  Journal of Individual and Community
+  Health.
+
+
+  Copyright, 1925,
+  Haldeman-Julius Company.
+
+
+  PRINTED IN THE UNITED STATES OF AMERICA
+
+
+
+
+  DIABETES: ITS CAUSE AND ITS
+  TREATMENT WITH INSULIN
+
+
+
+
+  CONTENTS
+
+
+                                                            Page
+  Introduction                                                 5
+
+  The Nature of Diabetes                                      17
+
+  The Story of Insulin                                        26
+
+  The Cause of Diabetes                                       33
+
+  The Diet                                                    45
+
+  Treatment in Cases of Mild Diabetes                         50
+
+  The Treatment of Fevers Occurring in Diabetic Patients      53
+
+  Operations on Diabetic Patients                             55
+
+  Miscellaneous Complications                                 56
+
+
+
+
+INTRODUCTION
+
+
+When the scientific body that awards the Nobel prize each year met to
+consider the award for 1923, there was no question or debate as to the
+discovery that merited the honor. The prize was granted to Doctors
+F. G. Banting and J. J. R. MacLeod of Toronto for their work in the
+discovery of insulin, and each immediately donated one-half the award
+to colleagues who had shared in this discovery, Doctors C. H. Best and
+J. B. Collip.
+
+In November, 1920, Dr. Banting, who had returned from war service,
+was practicing medicine in London, Ontario, and was demonstrating
+physiology in the medical school of Western University at that
+place. While reading an article in a surgical magazine, he chanced
+on a sentence which aroused the train of thought that finally led to
+his discovery of insulin--a substance that means a longer and more
+satisfactory life to diabetics.
+
+The article which he read concerned a gland, known as the pancreas,
+that lies close to the stomach and the upper part of the intestines.
+This gland is composed of two portions, one of which creates a juice
+poured into the intestine, which aids in the digestion of food; it is
+the external secretion and it contains trypsin and two other digestive
+ferments. The pancreas contains also certain cells which, when seen
+through the microscope, are marked off from the remaining tissue and
+which are known by the peculiar name “Islands of Langerhans,” the
+latter being the name of their discoverer.
+
+
+_Diabetes centuries old._--Now diabetes is no new disease.
+
+It was described by Aretaeus, a Greek who lived in the third century,
+A.D., and hundreds of scientists have worked steadily on the problem
+ever since that time. Indeed the history of the discovery of insulin is
+typical of all great medical discoveries of modern times. It represents
+the summation of a vast amount of knowledge contributed bit by bit
+by scientists all over the world. When Banting conceived his idea,
+he took it to Dr. MacLeod, director of physiologic research in the
+University of Toronto. Professor MacLeod, seeing the possibilities in
+the investigation, gave him opportunity to work, and provided him with
+a young assistant, Dr. C. H. Best. The particular problem on which
+they were to work was the extraction from the pancreas of another
+secretion, an internal secretion, not poured by the pancreas through a
+special duct into any other organ or to the exterior, but going instead
+into the blood stream.
+
+_Pancreas yields substance._--Previous investigations had indicated
+that this secretion was manufactured in the Islands of Langerhans.
+It was known that when the tube which carries the external
+secretion--trypsin--was tied, the trypsin would back up into the
+pancreas, and by its digestive action would destroy the glandular
+tissue, leaving an organ which consisted chiefly of island tissue.
+
+The investigators did such an operation on a dog. It was also known
+that an animal might be made diabetic by removing the pancreas; this
+operation was performed on another dog. Then, when sufficient time
+had elapsed to permit the breaking down of the pancreas in the first
+animal, it was painlessly chloroformed, the pancreas removed and an
+extract made from it. The extract consisted chiefly of island tissue,
+and this extract was injected into the diabetic dog. The result was the
+discovery that such injections produced a lower amount of sugar in the
+dog’s blood and in its urine. This and similar experiments established
+positively the fact that there was present within the pancreas, and
+quite certainly in the island tissue chiefly, some substance, not
+available in the body of the diabetic, which was capable of meeting a
+deficiency and aiding the diabetic to make proper use of sugar.
+
+_Drug dosage and animal experiments._--It now became necessary to
+devise a method of obtaining the extract in such form as to permit
+injections into the human being without danger from poisoning by
+extraneous and unnecessary substances, in other words, a pure product.
+It also became necessary to devise a method for measuring the dose to
+be given. How many persons who receive a dose of a medicine realize
+the amount of investigation necessary to determine these factors? It
+is necessary to test the effects of a drug on animals before it can be
+tried on the human being, and it is necessary to study very carefully
+the changes in the body following the administration of the drug, in
+order to be certain that no undesirable actions occur.
+
+The Canadian investigators worked in a wholly scientific manner.
+Their experiments show great attention to the matter of controls. For
+each animal that was tested, there was a normal animal with which to
+compare it. The investigators used many dogs, and a vast number of
+rabbits in making these necessary tests. Not until all the factors of
+danger had been thoroughly controlled was the drug administered to
+man. Had it been given without the guiding knowledge obtained by the
+observations on rabbits, it seems certain that overdoses might have
+been administered and patients have died.
+
+_Overdose of insulin dangerous._--The effects of an overdose of insulin
+are striking; there is too great a lowering of the amount of sugar,
+and severe convulsions ensue which may lead to death. Insulin is a
+powerful remedy; its effects are certain and accurately measurable.
+If a human being is given too much, his blood sugar falls to a lower
+concentration. When he gets it around 0.07 per cent he begins to be
+anxious and nervous about himself. He is likely to become pale, or
+to flush and perspire profusely. If the blood sugar concentration
+goes still lower his speech may become disturbed, and he may even
+manifest mental disturbances. These things too may be prevented, and
+immediately stopped once they have ensued, by the giving of a small
+amount of sugar, as for example in the form of four to eight ounces of
+orange juice. These facts also were discovered by properly conducted
+experiments.
+
+The investigators now turned their attention to the problem of this
+disease in human beings, and the results have already been broadcasted
+through medical periodicals, newspapers and magazines. They are far
+beyond the early hopes of scientific investigators of the disease.
+In that terminal stage of diabetes known as coma, when the patient
+sinks into unconsciousness, insulin seems actually to restore life. Of
+far greater importance, it offers for the vast majority of diabetics
+comfort and extended existence. Its administration is closely bound
+with a knowledge of the food taken into the body, for it is known that
+a certain amount of insulin will aid the body in handling a certain
+amount of sugar. When the physician decides to place his patient on
+the insulin treatment, he usually asks that the patient come into a
+hospital so that he may first find out the patient’s normal ability to
+digest sugar, and it is this ability that the physician supplements by
+the giving of insulin.
+
+_Manufacture and sale._--One of the unusual aspects of the insulin
+discovery was the method of control in its sale. The discoverers did
+not wish to profit unduly by their work, but they were anxious that
+its manufacture and application on a large scale be scientifically
+controlled. Arrangements were therefore made to have it manufactured
+under accurate supervision in the United States by the Eli Lilly
+Company, and in Canada by the Connaught Laboratories, and more recently
+in certain other home and foreign laboratories.
+
+The process of manufacture is an interesting one. The Islands of
+Langerhans constitute a small portion of what is relatively a small
+gland. In stock yards and packing houses this gland is called sweet
+breads; the sweet breads served under glass in the restaurants are
+usually the pancreas of the sheep or hog, since these are small. The
+beef pancreas is a much larger organ, weighing about a pound or a pound
+and a half.
+
+The method devised by Collip for obtaining insulin from the pancreas
+involves repeated extraction of the ground-up pancreas with alcohol,
+in order to remove the unnecessary tissue substances. When this is
+done on a small scale in the chemical laboratory, there is, of course,
+considerable wastage of raw material and of substances used in the
+extraction.
+
+The application of the matter on a commercial scale involved additional
+problems. They were not only overcome successfully, but continued
+improvements have made possible the provision of the life-saving remedy
+at a reasonable price.
+
+_Juvenile diabetes._--One of the most striking effects of the work
+was the result of the use of the remedy in the diabetes of children,
+or juvenile diabetics. This condition had previously been considered
+invariably fatal. Now the child may be treated satisfactorily, and it
+seems possible that its development under the influence of the drug
+may permit a gradual lowering of the dosage to amounts that may be
+administered with little expense or difficulty.
+
+After the investigators had completed the trials of the preparation
+in their own hospital, plans were made for extensive clinical
+investigation in other institutions in which there were men capable of
+conducting scientific studies on diabetes. More than 50 institutions
+were utilized in order to give the drug the most complete possible
+scientific trial before offering it to the medical profession in
+general; and when at last these trials were completed and the
+co-operating manufacturing concerns had fully developed the machinery
+for production of the drug on a large scale, it was released to the
+medical profession throughout the world.
+
+_Patients must do their part._--It should be understood that if the
+patient is to receive the greatest benefit from this new remedy, he
+must co-operate fully and intelligently with his physician. As soon as
+he discovers through competent examination that he is excreting sugar
+in his urine, he should consult his physician as to the use of the drug
+and a proper diet.
+
+In many instances, the use of insulin is unnecessary because the
+patient is able to live satisfactorily without insulin on a diet
+with the proper amount of sugar or carbohydrate material. In other
+instances, the dosage of insulin may be very small, but this will
+depend on a careful and intelligent study of each case.
+
+It is now rather generally known by the public that insulin is a
+preparation which is administered hypodermically, that is, injected
+with a needle under the skin. It cannot be taken by mouth, because
+the substance is digested before it can be absorbed into the blood.
+This does not mean that the patient must seek his physician for every
+treatment, because many competent specialists in the treatment of this
+disease have found that patients may be taught to regulate their diet
+and use the drug intelligently.
+
+_Recognition of the work._--As soon as it became known that this
+discovery was available, diabetics flocked to their physicians and
+began to inquire as to the possibilities of its use to “cure” the
+disease; but the drug is not in the usual sense of the word a “cure”
+for diabetes. Diabetes represents the absence from the body, probably
+as the result of disease, of certain substances which are responsible
+for the control of the digestion and use of sugar, and insulin cannot
+restore these tissues or substances any more than the injections
+of other glands can restore youth to the aged. It can only replace
+temporarily the substances that are absent; but in the case of a
+diabetic, this constitutes the difference between life and death.
+
+Naturally Doctors Banting, Best, Collip and MacLeod have received great
+honors at the hands of their colleagues and of the world. The Canadian
+government has granted to Dr. Banting the sum of $7,500 per year for
+life; the Ontario government has provided $10,000 a year for a chair of
+medical research, now held for the first time by Dr. Banting; learned
+societies throughout the world have greeted him with the applause
+usually accorded only to military heroes.
+
+The victor in the conflict of science with disease is certainly
+deserving of the wreath of the conqueror.
+
+  MORRIS FISHBEIN.
+
+
+
+
+DIABETES: ITS CAUSE AND ITS TREATMENT WITH INSULIN
+
+
+_Insulin a welcome discovery._--The discovery of a method for obtaining
+insulin in a form suitable for use in treating diabetes is a cause for
+genuine rejoicing. The sensational newspaper and magazine articles
+that greeted the discovery were, in a sense, a public expression of
+such rejoicing, and their exaggerations may be forgiven if this is
+remembered. The effort to gain an understanding and a sure method of
+controlling diabetes has taken years, and while the scientist delved
+in his laboratory, the seemingly unconquerable disease continued to
+take an ever-increasing toll of young and aged victims. In New York
+City, for instance, where statistics collected by Dr. Emerson are most
+reliable, the deaths from diabetes in 1866 were only 1 for each 2,437
+deaths from all causes. In 1923, one death in every fifty-one was due
+to diabetes. The diabetic death rate in New York City was trebled
+between 1880 and 1920 for ages up to forty-five years. For ages of
+forty-five and more, it was quintupled. There are probably more than
+a million patients with diabetes in the United States. No wonder then
+that mankind in general was overjoyed when the news came that the young
+Canadians, Banting and Best, had discovered insulin.
+
+
+THE NATURE OF DIABETES
+
+_Diabetes a disorder of metabolism._--What is this insulin and what
+does it do? Before this is answered, the nature of the chemical
+disorder that is called diabetes must be somewhat understood, and
+to supply this understanding, a partial review of the chemistry and
+physiology of nutrition must be made.
+
+The processes of life are largely chemical. The warmth of the body is
+provided by combustion, oxidation of food. If the supply of food is
+discontinued, life ends, and the body cools exactly as a gasoline motor
+stops and cools off when its supply of fuel is exhausted. Similarly,
+if the machinery for transforming food into energy is impaired, life
+will lag. This is what happens in diabetes; the disorder is much like
+that of a motor which misses fire when its ignition system is out of
+order. Food, like gasoline, contains energy, and life results from
+the conversion of this potential energy into body heat and muscular
+activity. The processes involved in this conversion are spoken of
+collectively as “metabolism.” Diabetes is a disorder of metabolism.
+There are other disorders of metabolism, but none so common as that of
+diabetes.
+
+_Carbohydrate, protein and fat._--The food supply of mankind is limited
+to the tissues of plants and animals, and the fuel in all such foods
+is either a carbohydrate, a fat, or a protein. Carbohydrates are
+starches and sugars; fats are oils, lards and complex materials such
+as may be found in brain, and egg yolk; protein is abundant in lean
+meat and cheese. Compared to the protein, the carbohydrates and fats
+are relatively simple chemical substances, fairly stable and, hence,
+easy to study chemically. Proteins are excessively changeable, to which
+character they owe their name. Some proteins are called albumins.
+Egg albumin, egg white, is a typical protein possessing all of the
+essential protein characteristics. The carbohydrates and fats serve
+chiefly as fuels, while the proteins, besides providing energy, build
+or rebuild the living tissues of the body. A diet may be deficient
+in either fat or carbohydrate, and still remain adequate. It must,
+however, provide a modicum of protein, since parts of the protoplasmic
+machinery of the tissues are constantly wearing out and requiring
+replacement.
+
+_Foods are disintegrated by catalysts._--While the conversion of
+the energy in carbohydrates, fats and proteins into the life flame
+is a process of combustion or oxidation, it is not a simple burning
+or explosion, as in the case of the fuel ignited in the cylinder of
+the gasoline motor, but proceeds by successive steps or stages. The
+earliest of these steps is taken in the kitchen where food is prepared
+by cooking. There the starches are softened and partly broken up,
+and the proteins are coagulated. The next stages are passed during
+digestion, beginning in the mouth, where the ptyalin, a ferment in the
+salivary juice, attacks starches, and continuing as the food passes
+successively through the stomach and the intestine. Ferments are also
+called catalysts. At each and every stage of digestion and assimilation
+some catalyst facilitates and accelerates the process of decomposition
+in a manner similar to the action of ptyalin on starch, or of yeast in
+brewing beer. Consequently, the food, before it has descended more than
+half way down the length of the small intestine, has been disintegrated
+chemically into fragments that are smaller and, chemically, much
+less complex than the original foodstuffs. The starches are split
+into sugars, the chief of which is glucose; the fats are broken into
+fatty acid and glycerin; the proteins are torn apart and comparatively
+simpler structures, the so-called amino-acids, result.
+
+_Sugar in the blood._--The food fragments resulting from digestion
+are soaked up through the intestinal wall into the blood and lymph,
+both of which fluids circulate freely around the intestine, and in the
+blood and lymph they can always be found, if suitable chemical means
+are adopted for detecting them. They are abundant in the blood during
+the hours following meal-taking, and diminish in fasting. The sugar
+glucose, for instance, is present in blood taken early in the morning
+in a concentration of about one part in each thousand, or 0.1 per cent,
+but when carbohydrates are being digested, one and one-half parts of
+glucose in each thousand, or 0.15 per cent are found.
+
+_The rôle of the liver._--The next stages of metabolism occur in
+the liver, to which the blood passes immediately after leaving the
+intestine. Here is a veritable chemical laboratory wherein innumerable
+transformations are worked. Some of them are now understood, and here,
+as later elsewhere, at every step of change, a catalyst is present to
+facilitate each separate chemical alteration. Many catalysts are very
+specific, accomplishing one definite task; others are more generally
+active. They have been likened to keys, which, fitting into certain
+locks, permit the locks to be turned. Without these catalysts or
+accelerators, transformations would occur so slowly that active life,
+such as ours, would be impossible.
+
+In the liver much of the sugar is removed from the blood and organized
+into a starch-like substance called glycogen. Thus stored, it is
+available later, when the blood may be poor in sugar. One of the main
+functions of the liver is to maintain a nearly constant concentration
+of sugar in the blood, which it does by subtracting sugar whenever, as
+after meals, the blood stream is flooded, and adding sugar at those
+times between meals, and at night, when the sugar level in the blood is
+low.
+
+In the liver, the amino-acid fragments of proteins are partly
+destroyed, ammonia is split off from them and changes into a waste
+product, urea, which is later excreted by the kidneys. Also sugar is
+made from many of the fragments of protein, and this sugar is either
+stored away as glycogen with the sugar originating from carbohydrate,
+or added to the blood. Nearly 60 per cent, by dry weight, of the
+protein eaten is thus changed to sugar, and as a final result of the
+normal processes of digestion, and action of the liver, we find that
+all of the carbohydrate, approximately 58 per cent of the protein, and
+it is supposed, 10 per cent of the fat of the food, eventually finds
+its way into sugar.
+
+If we desire to know how much sugar a certain food will add to the
+metabolism, that is, the sugar value of the food, we must know both
+the weight of the food and how much of this weight is carbohydrate,
+how much is protein, and how much is fat. The sugar value will be the
+sum obtained by adding the weight of the carbohydrate, 58 per cent of
+the weight of the protein, and 10 per cent of the weight of the fat.
+For instance, a slice of bread weighing 2 ounces or 60 gm., spread
+with one-third of an ounce or 10 gm. of butter would be 32 gm. of
+carbohydrate, 6 gm. of protein and 11 gm. of fat. The sugar value of
+this mixture would be 32 plus 3.5 plus 1.1 or 36.6 gm. A glass of whole
+milk, 6 ounces or 180 gm. of milk, would contain 9 gm. of carbohydrate,
+5 gm. of protein and 7 gm. of fat, and its sugar value would be 9 plus
+3 plus 0.7, or nearly 13 gm.
+
+After passing the liver, the blood enters the heart which then pumps
+it throughout the system of tubes called arteries into all the crevices
+of the body. Every tissue is thus bathed constantly with circulating
+fluids which contain sugar and the other elements of nutrition in forms
+suitable for utilization.
+
+_The liberation of energy in the tissues._--In the blood itself, no
+important chemical transformation occurs. The food fragments are picked
+out of the blood by the tissues and in the living protoplasms of
+each tissue, those important changes occur which constitute the most
+essential processes of life. These are, first, the building up of new
+protoplasmic matter, namely, growth and tissue repair, and, second,
+the liberation of energy by further decomposition and final burning or
+oxidation. Again each step of transformation requires the aid of some
+energizer or catalyst. The presence of many of these catalysts is only
+surmised. Some of them, however, have been captured and their mysteries
+are exposed. Among these is thyroxin, which Kendall showed to be the
+chief product of the thyroid gland. Thyroxin sets the pace of life.
+The rate of oxygen utilization is governed largely by it, so that when
+the thyroid gland is destroyed or not functioning, as in some forms of
+goiter, energy transformation proceeds at a slower tempo.
+
+_Insulin a catalyst._--We come now to diabetes, a condition which
+results from the lack or deficiency of a catalyst called insulin. The
+function of insulin, it seems, is to prepare sugar for utilization.
+
+_Diabetes a lack of insulin._--In diabetes, sugar escapes utilization
+in whole or in part. As it circulates normally in the blood, it is
+locked up, so to speak, and is unavailable either for storage as
+glycogen, or for oxidation or other transformation. Its energy is
+sealed, and before it becomes available a lock must be turned. The key
+to this lock is insulin, and in the absence of this key the normal
+means by which sugar is removed from the blood are unavailing, and in
+consequence, the level of sugar in the blood rises, and sugar appears
+in the urine.
+
+_Symptoms of diabetes._--The symptoms of diabetes are due for the
+greater part to the accumulation in the blood and excretion in the
+urine of unused sugar. On leaving the body, sugar carries water with
+it. A diabetic patient may pass many quarts of urine daily. This is a
+phenomenon like the drying of meats or fish by salting them. Water is
+subtracted in such amounts that the body dries; even the skin becomes
+dry, and the tongue may cleave to the roof of the mouth. Furthermore,
+much otherwise available food energy is lost with sugar in the urine.
+As much as a pound of sugar may be passed in a day. Consequently,
+the tissues starve in the midst of plenty. The appetite, therefore,
+is sharpened, but the more the patient eats, the greater becomes the
+wastage of food energy, and the more severe the symptoms.
+
+_Acid poisoning._--This is not all or, by any means, the worst. It
+so happens that fat, which under suitable circumstances, is readily
+metabolized, fails to oxidize smoothly when less than a certain minimum
+of sugar is being used. The fats, it is said, burn in the fire of
+carbohydrates. If a perfectly normal person is deprived of carbohydrate
+and fed only fat and a little protein, certain products of incompleted
+combustion of fat will accumulate in the body. These substances are
+acetone, aceto-acetic acid, and the hydroxybutyric acid. Acetone is
+not very poisonous, nor is hydroxybutyric acid, but aceto-acetic acid
+behaves somewhat after the manner of the anesthetics like chloroform.
+If a person has diabetes of some severity, acetone bodies may arise
+even when carbohydrate is fed because only _burning_ sugar prevents
+their formation, and in severe diabetes the carbohydrates fail to burn.
+
+_Diabetic coma._--In diabetes, therefore, such amounts of aceto-acetic
+acid may be formed that the patient is actually anesthetized and falls
+into unconsciousness. This is diabetic coma, which in the past has been
+the chief cause of death in the diabetes of children and young persons.
+The proper use of insulin should prevent these deaths from coma.
+
+
+THE STORY OF INSULIN
+
+_Minkowski’s discovery._--The story of insulin began a generation ago
+with the discovery of German investigators, Minkowski and von Mehring.
+This was in 1889, and until then the relation of the pancreas to
+diabetes was scarcely suspected, and no one had an idea where to look
+for the means to check the disease. The pancreas is an organ about the
+size of one’s hand which pours digestive juices into the intestine.
+
+_Removal of pancreas causes diabetes._--Minkowski was studying
+digestion and it happened in the course of certain investigations, that
+it became necessary to operate on a dog and remove this organ. A few
+days later it was noticed that flies were attracted in great numbers
+by the urine of this dog. The urine was examined, and the reason for
+the flies and the relation of the pancreas to diabetes was at once
+apparent. The urine contained sugar. Another animal was operated on,
+the pancreas removed and diabetes followed. Cats, swine, and frogs were
+then experimented with. In every case, complete removal of the pancreas
+resulted in severe diabetes, while partial removal caused a more
+chronic and milder diabetes.
+
+_The islands of Langerhans._--Previously, in 1869, Paul Langerhans,
+described peculiar clumps or islands of cells which differ in
+appearance from the bulk of the tissue in the pancreas. In 1890,
+Scobolew and Schulze showed that if the ducts leading from the pancreas
+were tied off, the islands withstood the destruction that was wrought
+in the rest of the organ by backing up of the pancreatic secretions.
+Animals treated in this manner did not develop diabetes, and it was
+concluded, therefore, that it was the islands that manufactured
+the anti-diabetic material of the pancreas. The name “insulin” was
+suggested for this material in 1916 by an Englishman, Shafer.
+
+_Previous attempts to obtain insulin._--In the meantime, efforts were
+being made by numerous scientists to extract from the pancreas the
+anti-diabetic principle. Some of these attempts nearly succeeded. Many
+of them failed because it was not known then that insulin is rendered
+inactive when it is given by mouth and subjected to the disintegrating
+action of the juices in the digestive tract. Innumerable attempts were
+made to control diabetes by feeding either fresh pancreas, or pills
+and pellets manufactured from the pancreas. Thus far, all such efforts
+have been in vain, and yet various drug companies continue to sell
+pancreatic pills as diabetic remedies. The results obtained by grafting
+pieces of pancreas into dogs previously made diabetic by the removal of
+the pancreas have been more successful. The experimental diabetes of
+animals so treated can be controlled, but such procedures offer nothing
+to mankind, because grafts made from a lower animal to man invariably
+atrophy, that is, shrink up and disappear.
+
+_Banting’s idea._--Thus the subject stood when, in the autumn of 1920,
+Frederick Banting, recently home from the war, began his work. The idea
+came, he writes, while reading an article dealing with the relation of
+the islands of Langerhans to diabetes. In his own words, it was this:
+“From the passage in this article, which gives a resumé of degenerative
+changes in the acini (cells connected with the ducts or passageway
+system) of the pancreas following ligation of the ducts, the idea
+presented itself that since the acinous, but not the islet tissue,
+degenerates after this operation, advantage might be taken of this fact
+to prepare an active extract of islet tissue. The subsidiary hypothesis
+was that trypsinogen (one of the digestive ferments prepared by the
+acinous cells) or its derivatives was antagonistic to the internal
+secretion of the gland. The failures of other investigators in this
+much worked field were thus accounted for.” In other words, the failure
+of his predecessors, Banting thought, was due to the probability that
+the digestive juices of the pancreas destroyed insulin before it could
+be extracted from the islands, and his plan was to circumvent this
+difficulty by first destroying the part of the pancreas concerned in
+making these juices.
+
+_The first insulin._--Banting took his idea to Professor Macleod of
+the University of Toronto. He received encouragement and facilities
+for work, and in the laboratory of Professor Macleod, with the skilled
+assistance of Mr. C. H. Best, he put the idea to the test, and it
+worked. Dogs made diabetic by removing their pancreas were treated
+with material obtained from degenerated pancreas, and could be kept
+alive. The sugar in their blood decreased each time this material was
+injected beneath the skin and the sugar in their urines diminished.
+This was the first insulin. The next step was taken soon after. Banting
+and Best knew from the work of their predecessors that the pancreas of
+animals in the womb, that is, of embryos or fetuses, show island tissue
+some time in their development before the tissue responsible for the
+digestive juices is fully formed. It occurred to them, therefore, that
+they could circumvent the destructive action of the juices by making
+insulin from embryo calves. This was tried, and it succeeded. Enough
+insulin was obtained to try on a patient. Later developments permitted
+the preparation of insulin from adult animals. Swine and beef pancreas
+from the slaughter house became the source of insulin. At first these
+preparations contained some protein which made it poisonous, and
+unsuitable for use in patients. Another chemist in the University of
+Toronto, Professor J. B. Collip, overcame this difficulty, and, with
+the co-operation of a group of able physicians in the university,
+Doctors Graham, Campbell and Fletcher, the new insulin was used on
+a large group of patients, and its value thus became definitely
+established.
+
+_Insulin now available for everyone._--Insulin can now be obtained
+in every drug store and fortunately, thanks to wise provisions for
+maintaining control of its manufacture arranged for by the University
+of Toronto, it is everywhere of uniform strength. This matter of
+constant strength is of the greatest importance. As will appear later,
+danger attends its indiscriminate use, and the dose must be made to
+match the amount of sugar derivable from the diet. Unless the strength
+of various lots of insulin is constant, accurate treatment would be
+impossible. This was recognized early by the workers in Toronto and,
+to protect the public, it was decided that insulin must be patented
+so that its manufacture could be restricted to those firms who
+would permit the control of their products by an insulin committee
+in Toronto. The firm of Eli Lilly and Company of Indianapolis put
+their plant at the disposal of the insulin committee and assisted in
+developing methods of large scale production. Subsequently, other firms
+have been licensed, by the insulin committee, to make insulin.
+
+       *       *       *       *       *
+
+The patenting of discoveries by physicians is usually frowned on by
+physicians. It is opposed to the ethical code of the profession. The
+patenting of insulin, however, does not violate this ethical code
+because the patent, while secured in the name of Doctor Banting
+and his associates, was given outright by them to the University of
+Toronto to be used, not for any commercial advantage, but as a means to
+guarantee that this splendid discovery would not be exploited by others
+to its discredit.
+
+_Insulin described._--Today, insulin, as sold, is a clear, watery
+solution. A small vial contains 50, 100 or 200 units, as indicated on
+the label. The strength of the unit is standard. A unit of insulin will
+have a certain definite lowering effect on the sugar in the blood of a
+normal animal. The rabbit is chosen as the test animal. In the patient
+with diabetes, a unit of insulin will increase tolerance, that is, it
+will add to the amount of sugar that can be utilized, from 0.5 gram to
+4 grams, depending on the character of the diet and the presence or
+absence of complications. The average patient uses between 10 and 30
+units a day. The cost has been reduced to below one cent a unit, so
+that insulin is now brought within the reach of everyone. Indeed, the
+cost is negligible when we consider that patients who, without insulin,
+were helpless invalids, dependent on relatives or charity, are now as
+fit and strong as their neighbors, and able to work again.
+
+
+
+
+THE CAUSE OF DIABETES
+
+
+_Disease of the pancreas a cause of diabetes._--The pancreas, whose
+removal Minkowski showed caused diabetes, is located in the abdomen
+near the stomach and pours its digestive juices through a channel
+or duct into the intestine. The organ has a second function, as has
+been told above, namely, to make insulin. This second product, which
+is elaborated by the islands of Langerhans, goes into the blood. The
+Langerhans islands are properly regarded as a distinct and separate
+organ. They are, however, so intimately associated and intermingled
+with the rest of the pancreas that any disease or injury of the
+pancreas may affect them seriously, reduce their insulin-making
+capacity and thus cause diabetes. Actually a large part of the pancreas
+may be destroyed before diabetes results. In dogs, little more than
+one-tenth of the gland remaining intact is sufficient to prevent the
+excretion of sugar. Men are more susceptible to diabetes than dogs, but
+even in men the pancreas may be seriously affected by inflammation or
+cancer before its insulin capacity is reduced to the point where actual
+insulin shortage is manifest.
+
+The body is so constructed that every organ has a factor of safety. A
+very large amount of the liver, for instance, can be diseased before
+any failure in its function is detectable. The same is true of the
+kidneys and of the heart, and the factor of safety in the case of the
+pancreas explains why we do not all have diabetes. Very few people have
+a normal pancreas, because inflammations in organs near the pancreas
+are fairly common; for instance, inflammation of the gallbladder, and
+very frequently the pancreas is involved in such inflammation. However,
+the number of persons with known gallbladder disease who develop
+diabetes, is not appreciably greater than that of persons without any
+evidence of such inflammations.
+
+_Hardening of arteries a cause of diabetes._--The pancreas may be
+injured, as is true of all of the organs of the body, by disturbance
+of its blood supply, especially through hardening of the walls of
+the arterial tubes which bring it its blood, and narrowing of their
+lumens or passageways. Older persons with hardened arteries may develop
+diabetes in this manner. On the other hand, many persons have extreme
+arterial disease and consequent destruction of pancreatic islands
+without diabetes.
+
+_Infections a cause of diabetes._--The delicate tissues of the
+pancreas, just as in the case of other organs, may be poisoned in
+the course of a general disease, such as scarlet fever, mumps, or
+influenza and, in consequence, diabetes may result from such diseases.
+There is, however, nothing specific in this. A certain number of
+cases of diabetes can be traced to a preceding acute intoxication of
+this character, but it is by no means true that any one of the known
+infections is always followed by diabetes.
+
+_Functional overstrain the chief cause of diabetes._--Functional
+overstrain is a recognized cause of disease, especially of the heart,
+but also of other organs. The heart may be irreparably injured by
+excessive exertion. Functional overstrain of the pancreatic islands
+resulting from long continued overeating is a cause of much diabetes.
+Persons who persistently overeat are usually markedly overweight. Some
+thin people are also equally prone to overeat, and yet, for some thus
+far unknown reason, remain thin.
+
+_Obesity a mark of overeating and functional overstrain of the
+pancreas._--The rule, however, is that overeating leads to obesity,
+and it is a well known fact that many diabetic patients are, or have
+been, overweight. Dr. Joslin, for instance, found among 1,000 diabetic
+patients, 75 per cent who either were, or had been, over normal
+weight. Dr. Joslin says that it takes ten diabetic patients to make a
+ton of diabetes. Overeating with attendant long continued functional
+overstrain of Langerhans islands is probably the most common of all
+causes of diabetes.
+
+_Sugar eating._--It is of considerable significance that the increasing
+incidence of diabetes in America is coincident with the enormous
+increase in the sugar consumption. In the decade 1880 to 1890, the
+annual sugar consumption was 44 pounds per capita. In 1921, it had
+risen to 84 pounds, and in 1922 to 103 pounds. The death rate for
+diabetes in 1890 was 5.5 for each 100,000; in 1921, it was 16.8 for
+each 100,000. It is easier to overeat of sugar than of almost any other
+food known, and it is probable that sugar imposes a greater functional
+strain on the pancreas than do the starches or fats. Starches swell up
+and fill the stomach readily, thus checking the appetite; furthermore
+they are slowly absorbed into the blood. Sugar goes into solution,
+passes the stomach quickly, is absorbed almost instantly and at
+once demands attention from the pancreas. The common desserts are
+sweets. When we are glutted with meat and potatoes, we still have
+room for sweets and we can always find room for candies. The rage for
+soft drinks since the abolition of alcoholic beverages is certain
+to increase the crop of new cases of diabetes. I have seen several
+patients who have been suddenly precipitated into an extreme stage of
+diabetes and coma by a soft drink spree.
+
+_Diabetes may occur without provocation._--Not infrequently, among
+younger persons and children, diabetes appears out of a clear sky with
+apparently no provoking cause. No inflammation has occurred in the
+pancreas of these patients, so far as any good evidence shows; they are
+young and therefore not afflicted with arterial disease, and they have
+never been overweight and have not overeaten. How can we explain the
+diabetes of these children and young persons, and how can we explain
+why some fat persons and not all escape diabetes, and why some patients
+with very little disease of their pancreas have diabetes and others
+with very extensive destruction of the pancreas do not have it?
+
+_Heredity of the tendency to diabetes._--The answer, probably, lies in
+the more or less shadowy realm of heredity. Some of us are born with
+weak eyes and others with weak islands, and the degree of original
+island weakness determines the susceptibility of the islands both to
+functional overstrain from overeating and to injury from infectious
+diseases or from poor circulation of the blood. If the diabetic
+tendency of an individual is marked, diabetes may develop, in very
+early life. The pancreas here is too weak to withstand the normal
+functional strain of growth. When this is the case, the disease is
+of extreme severity. If the diabetic tendency is slight, it may not
+show itself except as the result of long continued overeating. If the
+pancreatic islands are functionally strong, they withstand infections
+and injury from disease or poor blood supply; if weak, they fail and
+diabetes results. Diabetes rather infrequently occurs in several
+members of the same family, but the fact that this happens rather
+infrequently does not mean that the tendency fails to pass by heredity.
+Many persons who are considered normal may have this tendency without
+showing any evidence of it throughout life.
+
+
+
+
+THE TREATMENT OF DIABETES
+
+_Prevention._--A stitch in time will save nine diabetic patients.
+Typhoid, small-pox, diphtheria, yellow fever and a number of other
+diseases have been practically eliminated. Tuberculosis, otherwise
+known as the white plague, is rapidly being chained. Why not do
+the same with diabetes? We have seen that overeating is the common
+cause. Let us, therefore, teach the virtues of keeping lean and fit.
+Incidentally, such teaching may help to control other chronic diseases.
+There is reason to believe that heart trouble, high blood pressure,
+gallstone and cancer, occur in the obese with greater frequency than in
+the lean. Obesity is a mark of long continued functional overstrain of
+all the organs of the body. Overeating of carbohydrates and proteins
+is especially injurious to the pancreas. In Berlin, during the war
+when the food supplies of the populace were greatly reduced and sugar
+and meat in particular were scarce, the number of new patients with
+diabetes decreased immensely. In America, with growing luxury and
+rising sugar consumption, diabetes is increasing by leaps and bounds.
+The Jews, as a race, have much diabetes, not because they are Jews,
+but because so many of them are luxury lovers, overeaters, and fat
+Jews. Diabetes cannot be entirely eliminated by preventing overeating.
+As we have seen, thin people are not immune if the heredity tendency
+in them is strong; and they develop the severest form of diabetes at
+a relatively tender age, and yet it is possible that even the number
+of these may be reduced in time. A leading authority once published
+the family trees of a number of diabetic families and these family
+trees suggest that the tendency to diabetes becomes stronger with each
+succeeding generation. In the grandparents the disease was mild and
+came on late in life--not until they had overeaten, presumably, for
+many years and were fat. In the parents the disease was more severe and
+appeared earlier in life, the result, presumably, of less overeating.
+In the third generation, the disease occurred in the children with
+still less provocation from overeating. Perhaps we can save our
+grandchildren, therefore, by keeping ourselves fit, and thus stamp out
+the diabetes of childhood which is always severe and, therefore, the
+most dreaded. It is worth a trial.
+
+_Detection of early cases._--Doctor Joslin, who has done more than
+anyone else to teach the diabetic people of America how to keep well
+and strong, urges that everyone have the urine tested annually on his
+or her birthday. Life insurance examinations, are now fortunately
+much more frequent than formerly, and reveal numerous early cases of
+diabetes. Diabetic patients, who have been properly treated, are
+trained to make the sugar test of the urine. It is the duty of everyone
+of these to examine the other members of their families at frequent
+intervals. Why not teach this simple test to the students in the
+classes in chemistry in our high schools and urge them to keep a watch
+on the members of their families? Every druggist certainly should be
+familiar with the test and should be willing to make it on request, for
+a nominal fee.
+
+It makes a great deal of difference whether a patient comes to the
+doctor early or late. With the better methods of treatment, the
+earliest cases are being arrested, if not cured. Some of them may
+be cured. It is still too soon to know. There is little hope of
+strengthening a severely weakened pancreas, or of accomplishing
+curative results in patients who have had the disease very long.
+
+_Treatment._--The treatment of the patient is based on certain
+principles which follow logically from the foregoing about the nature
+of the disease.
+
+_Principles guiding treatment._--If diabetes is due, as seems most
+likely, to the overstrain of a pancreas weak by heredity, the obvious
+way to manage it is to reduce the strain. This is exactly the same
+principle that guides us in treating heart disease. Physical rest
+accomplishes wonders for the heart. Careful dieting does the same for
+the pancreas. By so arranging the diet that the total amount of sugar,
+that is, the load on the pancreas, is reduced, we accomplish, first,
+the disappearance of sugar from the urine, second, its decrease in
+the blood, third, the control of annoying symptoms, such as excessive
+urination, excessive thirst, and dryness and itching of the skin.
+Simultaneously, we give the pancreas a chance to pick up and regain
+some strength.
+
+In mild cases of diabetes the results obtainable by diet are entirely
+satisfactory and the milder the case the less the food restriction
+necessary. In severe cases of diabetes the dietary treatment alone
+is less satisfactory because the diet has to be cut so low that the
+patient is improperly nourished. Before the discovery of insulin was
+made, every such case presented a bitter dilemma. Either the diet
+was restricted to the point where the patient literally starved to
+death, or the patient could be fed; but, in that case, death from
+diabetic coma was to be anticipated. It is in such cases, particularly,
+that insulin is proving a boon. With insulin at our disposal, cases
+of severe diabetes can be converted into mild cases. All that is
+necessary is to give enough extra insulin every day to raise the
+patient’s tolerance for sugar, and then, with a careful but adequate
+diet, he can enjoy normal strength and health and carry on with his
+usual occupation. This is not curing diabetes, but it is eliminating
+the worst of its terrors.
+
+_The diet can not be disregarded._--Some persons may ask why dieting
+is necessary with insulin? If, as seems true, the only metabolic
+disturbance in diabetes is a lack of sufficient insulin, then we should
+be able to correct this fault completely by giving sufficient insulin,
+and to eat what we want. This may be sound, theoretically, but is
+impractical for the following reason.
+
+An uncontrolled normal diet contains approximately 300 grams, or 10
+ounces of carbohydrate, 150 grams, or 5 ounces of protein, and 90
+grams, or 3 ounces of fat. In the course of assimilation, about 400
+grams of sugar are derived therefrom, and, to metabolize such an amount
+of sugar, 150 to 300 units of insulin must be necessary. A normal
+person probably makes, in his pancreas, 200 or 300 units of insulin
+a day, which is sufficient for any normal demand, but this natural
+insulin is doled out to his tissues, a bit at a time, so that there is
+never an excess of insulin in the blood.
+
+_Excessive insulin harmful._--In severe diabetes the pancreas
+manufactures very little insulin, not more than 20 or 30 units, and
+the balance necessary for the day’s work must be given by hypodermic
+syringe in two or three doses. If the total amount of extra insulin
+necessary daily were 150 units, each hypodermic injection would be 50
+units, and it is difficult to give such large doses as this without
+causing a temporary excess of insulin in the blood. Unfortunately,
+excessive insulin is as disagreeable as inadequate insulin. When too
+much insulin is present in the blood, the blood sugar falls to very low
+levels and a reaction occurs with symptoms that may be alarming, and
+results that may be serious. Consequently, very large single doses of
+insulin must be avoided and the total amount of sugar entering the body
+daily must be measured and made to balance with the insulin doses. This
+means dieting.
+
+Furthermore, it proves to be very difficult to keep the level of the
+blood sugar low with insulin when diets are very rich in carbohydrate.
+The normal sugar level, as I have said, is 0.1 per cent. In
+uncontrolled diabetic conditions, it may be found as high as 0.5 per
+cent, or higher. This can be reduced by an insulin injection, but as
+soon as food rich in carbohydrate is eaten, back comes the sugar to a
+high level. In order to rest the pancreas, the blood sugar must be kept
+low, which can only be accomplished when the diet contains relatively
+little carbohydrate.
+
+
+
+
+THE DIET
+
+_Calories and sugar should be low._--All of the principal authorities
+on diabetes are agreed that a diabetic patient must not overeat and
+become fat. In other words, the total amount of food energy, that is,
+calories, must be limited. All are agreed also that the diet must be
+kept low in sugar producing foods. This means little carbohydrate and
+little protein. The diet in health, as I have said, includes a great
+deal of carbohydrate, probably more than is wise even for perfectly
+normal persons. The diet in diabetes must get more of its calories from
+fat and less from the starches and meats. Authorities are furthermore
+agreed that an excessive restriction of carbohydrate (sugar and starch)
+may be dangerous, because with such very low carbohydrate diets the
+fats may fail to be properly assimilated, with resulting acid poisoning.
+
+_The authorities agree on general principles._--The actual procedures
+in diet-planning employed by various authorities differ but little,
+and only as to details. Doctor Allen, for instance, believes in much
+greater restriction of total food than do others. Doctor Joslin also
+favors rather low total food amounts and disbelieves in allowing much
+fat unless rather large amounts of carbohydrate can be taken. Doctor
+Woodyat of Chicago, the doctors in the Toronto Clinic, and Doctor
+McCann at the University of Rochester, New York, plan their diets in
+such a way that approximately one part of carbohydrate will be taken
+for every two and one-half parts of fat. Professor Petren of Lund,
+Sweden, now the leading authority in Europe, and Doctor Newburgh and
+Doctor Marsh of the University of Michigan, believe that restricting
+protein is of extreme importance, and that if this is done acidosis
+can be avoided even when larger proportions of fat are fed. In the
+Mayo Clinic, the practice is to limit protein rigidly and to limit
+carbohydrate rather more strictly than is done elsewhere, making the
+diet consist to a greater extent of fat, but planning this so that the
+total energy of the daily food supply will meet quite closely actual
+energy requirements. The procedures for arriving at these several diets
+can be found in various manuals that have been written for patients.
+
+_Books on diabetes for patients._--Doctor Joslin’s “Diabetic Manual,”
+Lea and Febiger, is one of these. Doctor Petty’s “Diabetes, Its
+Treatment by Insulin and Diet,” F. A. Davis Company, Philadelphia,
+is another. Wilder, Foley and Ellithorpe’s “A Primer for Diabetic
+Patients,” W. B. Saunders Company, Philadelphia, may be consulted for
+more complete descriptions of the methods employed in the Mayo Clinic
+than can be given here.
+
+_Patients must be trained._--The results of accurate management are so
+encouraging that they are almost as good as cures. They are not cures,
+because the fundamental island weakness is rarely if ever completely
+corrected, and treatment must continue for month after month. Success,
+therefore, rests largely in the patient’s hands and the doctors’ most
+important task is teaching the patient all that he can be taught about
+his diet and about the use of insulin. The books mentioned were written
+to help in this training of patients. In various clinics over the
+country, patients attend classes and are instructed in the subject of
+dietetics until they can weigh food and plan meals accurately so that
+each will contain a set number of calories and yield to the metabolism
+a predetermined amount of sugar. The hospital management of a case of
+diabetes is not complete until the patient can live a healthy life
+in spite of his disease. He may arrive at the hospital in a state of
+coma and be dragged from the very jaws of death with insulin, but
+afterwards, when he goes home, unless he has learned how to continue
+the use of insulin and combine with it an accurate diet, he will slip
+again into the same dangerous predicament.
+
+It is best always to start treatment in a hospital where a systematic
+course of instruction can be obtained. Unfortunately, we have no
+schools for diabetic patients other than the hospitals, and some
+persons dislike hospitals. Good results can be obtained at home,
+provided one has the good fortune to consult a physician who will take
+the time to give this training. What are the essentials?
+
+_What the patient must know._--First, a knowledge of how to read
+food tables and, with their aid, to plan accurate diets. Food tables
+are lists of foods showing the composition of each, in protein,
+carbohydrate and fat. The books mentioned here all contain such
+lists. The most complete table is that published by the United States
+Department of Agriculture, Bulletin No. 28, “The Chemical Composition
+of American Food Materials,” a pamphlet that may be had from the
+Superintendent of Documents, Government Printing Office, Washington,
+D. C., for the small sum of ten cents.
+
+Second, instruction in the manner of injecting insulin, that is, in
+the use of the hypodermic syringe. Insulin, as has been stated, must
+be given hypodermically, under the skin. The technic is not difficult,
+but sterile precautions must be observed in order to avoid introducing
+disease germs with the insulin.
+
+Third, instruction in how to test the urine for sugar. This is a simple
+task but of great importance. Sugar in the urine is the first signal of
+inadequate treatment. To postpone correcting the mistake until other
+signs appear such as thirst, excessive urination, and loss of strength,
+is to court disaster. The sugar test can be completed in three minutes,
+and should be made every day, preferably on a specimen of urine passed
+just before the patient retires for the night. This specimen should be
+sugar-free. If it is not, more insulin is needed or the diet requires
+readjustment.
+
+Fourth, advice concerning how to meet certain complications which I
+shall discuss later.
+
+
+
+
+TREATMENT IN CASES OF MILD DIABETES
+
+
+There are instances of patients with diabetes who have lived for twenty
+years or more without any effort at treatment. This consoling thought
+must not make unwary the patient with a moderately severe or severe
+form of the disease. It is safer to overrate the seriousness of the
+condition than to commit an irreparable blunder and neglect the careful
+management of a serious condition. Children and young adults, for
+instance, may seem well during the first year after the appearance of
+sugar, but with few exceptions they develop the severest form of the
+disease later unless they are very carefully treated from the first.
+
+A good many older persons may be treated satisfactorily with much less
+dietary restriction than is necessary in the severe cases. When this
+is possible, insulin is not needed and should not be used, or, in
+other words, if a condition is serious enough to require insulin, it
+is serious enough to require an accurately weighed diet. Occasionally
+patients have so little intelligence that it is hopeless to expect
+them to carry on the weighed diet in their homes. For such, and also
+for patients with very mild diabetes, the following general advice is
+usually beneficial:
+
+1. Avoid sugar and all foods made with sugar, such as candy, jelly,
+marmalade, syrup and molasses, pies, cakes, puddings and pastries.
+Saccharin may be used if desired: one-fourth grain saccharin will equal
+one teaspoonful of sugar in sweetening value.
+
+2. Avoid cereals (breakfast foods) and cereal products, such as mush,
+macaroni, spaghetti and noodles.
+
+3. Use bread only in very small amounts, not over one ounce at a meal.
+Whole wheat or white breads are preferable to any so-called diabetic
+breads. Gluten bread, brown bread and corn bread vary widely in
+compositions and it is safer to avoid them.
+
+4. Potatoes, bananas, apples, peas, dried beans, carrots, beets,
+turnips and onions should be used in small quantities, and not oftener
+than once a day.
+
+5. Dried fruits should be avoided. Use fresh fruits whenever possible.
+Fruits canned without sugar are permissible. They may be purchased
+on the market or prepared at home. Fruits may be taken every day as
+substitutes for other desserts.
+
+6. Vegetables that grow above the ground, except peas and dried beans,
+should be eaten in quantities sufficient to avoid hunger. Three
+ordinary servings of these vegetables may be included in each meal.
+Canned vegetables are palatable and wholesome. Fresh vegetables are,
+however, preferable.
+
+7. Meat and eggs should be eaten sparingly. As much harm may result
+from excessive protein as from excessive carbohydrate. The diet for
+the day should never contain more than 60 grams (2 ounces) of lean
+meat, weighed cooked, and three eggs. Thirty grams (1 ounce) of bacon,
+weighed cooked, may be included. Meat includes chicken, game, and fish.
+
+8. Fats, including butter or oleomargarine, nut butter, bacon fat,
+olive oil, Wesson oil, or other salad oil may be eaten freely.
+
+9. Cream is a very useful food for diabetic patients, and may be taken
+freely. Milk is relatively high in carbohydrate and less nutritious.
+
+10. The amount of fat, such as butter or cream, should be adjusted
+so as to provide adequate, but not excessive, nutrition. A rising
+body-weight calls for less food and, under such circumstances, the
+amount of fat should be reduced.
+
+11. Coffee and tea should be used sparingly, not in excess of one
+cupful of either at each meal.
+
+12. Condiments, such as salt, pepper and vinegar, may be used in
+reasonable amount.
+
+If sugar appears in the urine, bread should be omitted. If it persists
+after thus reducing the carbohydrate intake, the condition of the
+patient is severe enough to warrant instituting the more accurate
+management discussed herein.
+
+
+
+
+THE TREATMENT OF FEVERS OCCURRING IN DIABETIC PATIENTS
+
+
+_Fevers increase the need for insulin._--Today, with insulin, a
+properly dieted patient is as robust and capable as his normal
+neighbor. His handicap is the continued necessity for keeping his
+enemy under control, but if this control is watchfully maintained, he
+should live as long and as useful a life as do his fellows. However,
+throughout his life he is exposed, as are his fellows, to diseases
+other than diabetes. Measles, mumps, scarlet fever, diphtheria, acute
+colds, influenza, pneumonia, and other germ diseases, the so-called
+infectious diseases, will attack him, and when they do they invariably
+aggravate his diabetes and, by preventing the utilization of his
+sugars, subject him to the danger of acid poisoning from smoldering
+fats. Therefore, when such complications occur, a patient must have
+insulin, whether he has been able to do without it before or not, and
+usually the doses necessary to control these critical emergencies
+must be large. For instance, a patient on a set diet, whose urine
+remains free from sugar with 20 units of insulin, may require 40 units
+daily whenever he takes cold. A serious infection like pneumonia may
+make it necessary to use 80 units of insulin daily. Under normal
+circumstances, a patient taking 20 or 30 units of insulin daily, does
+very well when this is divided into two doses of 15 units each, and one
+dose is injected before breakfast, and the second before the evening
+meal. During an attack of pneumonia or any other fever-producing
+complication, it may be necessary to resort to four injections, spaced
+at six-hour intervals. It is usually necessary to modify and reduce
+the diet when a patient is sick. It is always wise to eat less. In
+particular, the fat allowance of the diet should be reduced. It is
+wise not to reduce the carbohydrate. The patient with fever may be
+nauseated during the course of a fever and refuse all food. Under
+such circumstances, less insulin may be required; usually, however,
+large doses are still necessary. The reason for this is not clear,
+but apparently the poisons created in the course of germ diseases
+counteract the effect of insulin. During disease, the urine should
+be examined every six hours and the dose of insulin necessary may be
+judged from the amount of sugar found.
+
+
+
+
+OPERATIONS ON DIABETIC PATIENTS
+
+
+_Special precautions necessary in operating on diabetic patients._--It
+is self-evident that a person with diabetes is no less likely
+to develop appendicitis, gallstones, or cancer than he would be
+without diabetes. Consequently, serious operations are occasionally
+necessary. The danger from such procedures is many times greater in
+diabetic patients than in others, unless the diabetes is closely
+controlled. Formerly one out of every three operations on diabetic
+patients terminated fatally. This was because the anesthetic, ether
+or chloroform, provoked acid poisoning, and because the enfeebled
+patient was little prepared to withstand the shock of loss of blood,
+and injury. The added danger of diabetes may be avoided if the patient
+is in good condition before he goes to operation, and if acidosis is
+promptly combated with insulin. It is wise for the diabetic patient to
+employ only a very skillful surgeon, and to make certain either that he
+is familiar with the treatment of diabetes, or that he has associated
+with him some physician who has had a considerable experience with
+diabetes.
+
+
+
+
+MISCELLANEOUS COMPLICATIONS
+
+
+_Arteriosclerosis._--When we pass the age of thirty-eight, we are
+enjoying life which was denied our grandparents. The expectancy of life
+for a newborn baby in 1860 was thirty-eight years. Now it is nearly
+sixty years. This accounts, in a large measure, for the specially rapid
+increase in the amount of diabetes among people more than forty-five,
+and for the larger incidence today of other diseases of a chronic type.
+Hardening of the arteries, or arteriosclerosis, is a complication with
+which older diabetic patients are frequently afflicted. As has been
+said, arteriosclerosis may be a cause of diabetes in a predisposed
+person, but be that as it may, diabetes, once established, unless
+controlled, aggravates and intensifies disease of the arteries. It is,
+therefore, important for the older diabetic patient to make a serious
+effort to avoid arteriosclerosis by keeping his diabetes checked.
+Most of the complications which harass and endanger the older patient
+are due to hardening of the arteries. In this disease, the elastic
+contracting tissue in the hollow muscular tubes that carry blood is
+replaced, bit by bit, with scar tissue.
+
+_Apoplexy, heart trouble, gangrene._--The walls of the tubes thicken,
+become brittle, and what results? A vessel in the brain breaks, and
+hemorrhage in the brain may cause apoplexy. A vessel may also break
+in the eye. The amount of blood that can pass through the narrowed
+tubes is too little to supply the beating heart, and pain results,
+called angina, or irregular heart action or even heart failure. The
+circulation in the legs is restricted, and pains result, and sometimes
+gangrene. Coma, it will be remembered, is the chief cause of death
+among younger diabetic patients. Coma can now be prevented and no
+one should die from coma. Gangrene is the chief cause of death among
+older patients. In gangrene, usually of the legs, the tissues lose
+their vitality because of lack of blood; infection follows and blood
+poisoning results.
+
+_Prevent gangrene._--We must prevent these deaths from gangrene. It can
+be done by watchfulness and attention. Keeping the urine sugar-free is
+the first requisite. Gangrenous ulcers of the feet can be made to heal
+by vigorous treatment with insulin, and diet. It is of great importance
+to encourage the circulation in the feet by massage and proper
+exercises. Finally, care in avoiding bruises and cuts of the skin of
+the feet will prevent much trouble. Every old diabetic patient should
+wash his feet daily, wear clean stockings, and very comfortable shoes.
+Watch and guard the feet. Achilles, the Greek hero, must have been
+a diabetic. The only vulnerable spot on his body was his heel. When
+before the walls of Troy the spear of Paris touched him on the heel, he
+died. Watch and guard the feet.
+
+
+
+
+Transcriber’s Notes
+
+Page 18: “fairly stabile” changed to “fairly stable”
+
+Page 25: “like coloroform” changed to “like chloroform”
+
+Page 39: “Overeating of carboydrates” changed to “Overeating of
+carbohydrates”
+
+Page 52: “excessive carhobydrate” changed to “excessive carbohydrate”
+
+Page 55: “one out of overy” changed to “one out of every” “with a
+diabetes” changed to “with diabetes”
+
+Page 56: “be that is it may” changed to “be that as it may”
+
+Page 57: “my cause apoplexy” changed to “may cause apoplexy”
+
+*** END OF THE PROJECT GUTENBERG EBOOK DIABETES: ITS CAUSE AND ITS
+TREATMENT WITH INSULIN ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
